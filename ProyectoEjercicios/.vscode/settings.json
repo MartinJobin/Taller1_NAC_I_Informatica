@@ -1,0 +1,9 @@
+﻿{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 95,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.startupEditor": "none",
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin"
+}

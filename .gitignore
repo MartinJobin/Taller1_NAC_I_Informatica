@@ -1,0 +1,10 @@
+# Archivos compilados de Java
+ProyectoEjercicios/bin/
+*.class
+
+# Documentos que no forman parte del proyecto Java
+*.docx
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
